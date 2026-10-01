@@ -1,0 +1,10 @@
+angka1= input("berapa angka 1=")
+angka2= input("berapa angka 2=")
+angka3= input("berapa angka 3=")
+angka4= input("berapa angka 4=")
+hasilkali= int(angka1) * int(angka2)
+hasilpembagian= int(angka3) / int(angka4)
+
+print ("angka 1 adalah" , angka1, "angka 2 adalah" , angka2, "angka 3 adalah" , angka3, "angka 4 adalah" , angka4)
+print ("hasil perkalian =" , hasilkali)
+print ('hasil pembagian =' , hasilpembagian)
